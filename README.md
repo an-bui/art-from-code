@@ -16,17 +16,10 @@ Also this, which reminded me of clumps of mosses:
 
 From [Studies in Voronoi Baroque: Part I](https://an-bui.github.io/art-from-code/activities/art-from-code-activities.html#studies-in-voronoi-baroque-part-i)  
 
-And these Truchet tiles, which I JUST LEARNED ABOUT AND ALSO BLEW MY MIND:  
-
-::: {layout-ncol=3}
-
-![](https://github.com/an-bui/art-from-code/blob/main/activities/images/truchet1_v01_2023-06-09.png) 
-
-![](https://github.com/an-bui/art-from-code/blob/main/activities/images/truchet3_v01_2023-06-09.png) 
+And Truchet tiles, which I JUST LEARNED ABOUT AND ALSO BLEW MY MIND:  ß
 
 ![](https://github.com/an-bui/art-from-code/blob/main/activities/images/truchet6_v01_2023-06-09.png) 
 
-:::
 
 From the intro to [Truchet tiles](https://an-bui.github.io/art-from-code/activities/art-from-code-activities.html#truchet-tiles)
 
