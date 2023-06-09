@@ -2,6 +2,32 @@
 
 Working through Danielle Navarro's rstudio::conf 2022 materials on creating art from code!  
 
+## Rendered output
+
+The rendered output is [here](https://an-bui.github.io/art-from-code/activities/art-from-code-activities.html). Some of my favorites:
+
+![](https://github.com/an-bui/art-from-code/blob/main/activities/images/pic_sag_bg_v03_2023-06-09.png)
+
+From the [first introduction to Voronoi tesselation](https://an-bui.github.io/art-from-code/activities/art-from-code-activities.html#voronoi-tesselation), which blewwww my mind!
+
+Also this, which reminded me of clumps of mosses:
+
+![](https://github.com/an-bui/art-from-code/blob/main/activities/images/unboxy_pic3_v02_2023-06-09.png)
+
+From [Studies in Voronoi Baroque: Part I](https://an-bui.github.io/art-from-code/activities/art-from-code-activities.html#studies-in-voronoi-baroque-part-i)  
+
+And these Truchet tiles, which I JUST LEARNED ABOUT AND ALSO BLEW MY MIND:  
+
+::: {layout-ncol=3}
+![](https://github.com/an-bui/art-from-code/blob/main/activities/images/truchet1_v01_2023-06-09.png) 
+
+![](https://github.com/an-bui/art-from-code/blob/main/activities/images/truchet3_v01_2023-06-09.png) 
+
+![](https://github.com/an-bui/art-from-code/blob/main/activities/images/truchet6_v01_2023-06-09.png) 
+:::
+
+From the intro to [Truchet tiles](https://an-bui.github.io/art-from-code/activities/art-from-code-activities.html#truchet-tiles)
+
 ## Info about the author
 Danielle Navarro is a generative artist, data scientist, professional educator, mathematical psychologist, academic professor in recovery, open source R developer, and coauthor of “ggplot2: Elegant Graphics for Data Analysis” (3rd edition). She is currently a developer advocate at Voltron Data working with the Apache Arrow ecosystem. You can find her art at https://art.djnavarro.net, and other professional details at https://djnavarro.net. Danielle lives in Sydney, Australia with her two children and her Netflix subscription.
 
