@@ -9,35 +9,42 @@ Danielle Navarro is a generative artist, data scientist, professional educator, 
 
 ```
 .
+.
 ├── README.md
 ├── activities
 │   ├── art-from-code-activities.html
 │   ├── art-from-code-activities.qmd
-│   └── art-from-code-activities_files
-│       ├── figure-html
-│       │   ├── example-1-1.png
-│       │   ├── getting-started-01-1.png
-│       │   ├── mpg-squares-1.png
-│       │   ├── msp-output-1.png
-│       │   ├── pal-gen-output-1.png
-│       │   ├── polar-test-1.png
-│       │   ├── sam-can-ran-output-1.png
-│       │   └── sam-nam-col-output-1.png
-│       └── libs
-│           ├── bootstrap
-│           │   ├── bootstrap-icons.css
-│           │   ├── bootstrap-icons.woff
-│           │   ├── bootstrap.min.css
-│           │   └── bootstrap.min.js
-│           ├── clipboard
-│           │   └── clipboard.min.js
-│           └── quarto-html
-│               ├── anchor.min.js
-│               ├── popper.min.js
-│               ├── quarto-syntax-highlighting.css
-│               ├── quarto.js
-│               ├── tippy.css
-│               └── tippy.umd.min.js
+│   ├── art-from-code-activities_files
+│   └── images
+│       ├── icescape_3d_444_2023-06-08.png
+│       ├── mosaic1_2023-06-09.png
+│       ├── mosaic2_2023-06-09.png
+│       ├── mosaic3_2023-06-09.png
+│       ├── pic1_2023-06-09.png
+│       ├── pic2_2023-06-09.png
+│       ├── pic3_2023-06-09.png
+│       ├── pic_sag_bg_v01_2023-06-09.png
+│       ├── pic_sag_bg_v02_2023-06-09.png
+│       ├── pic_sag_bg_v03_2023-06-09.png
+│       ├── shaded_ridge_1_2023-06-08.png
+│       ├── truchet1_v01_2023-06-09.png
+│       ├── truchet2_v01_2023-06-09.png
+│       ├── truchet3_v01_2023-06-09.png
+│       ├── truchet4_v01_2023-06-09.png
+│       ├── truchet5_v01_2023-06-09.png
+│       ├── truchet6_v01_2023-06-09.png
+│       ├── unboxy_pic1_v01_2023-06-09.png
+│       ├── unboxy_pic1_v02_2023-06-09.png
+│       ├── unboxy_pic2_v01_2023-06-09.png
+│       ├── unboxy_pic2_v02_2023-06-09.png
+│       ├── unboxy_pic3_v01_2023-06-09.png
+│       ├── unboxy_pic3_v02_2023-06-09.png
+│       ├── unboxy_pic_v01_2023-06-09.png
+│       ├── unboxy_pic_v02_2023-06-09.png
+│       ├── unboxy_pic_v03_2023-06-09.png
+│       ├── voronoi1_v01_2023-06-09.png
+│       ├── voronoi2_v01_2023-06-09.png
+│       └── voronoi3_v01_2023-06-09.png
 ├── art-from-code.Rproj
 ├── materials
 │   ├── README.md
@@ -62,7 +69,26 @@ Danielle Navarro is a generative artist, data scientist, professional educator, 
 │   ├── palette-generators.R
 │   ├── perlin-blob.R
 │   ├── perlin-heart-animated.R
-│   ├── perlin-heart-
+│   ├── perlin-heart-grid-2.R
+│   ├── perlin-heart-grid.R
+│   ├── perlin-heart.R
+│   ├── polar-art.R
+│   ├── polar-styled-plots.R
+│   ├── pretty-boxes.R
+│   ├── shaded-icescape.R
+│   ├── shaded-ridge-art.R
+│   ├── smudged-hexagon.R
+│   ├── splotch.R
+│   ├── subdivision.R
+│   ├── textured-lines.R
+│   ├── truchet-example.R
+│   ├── unbox-base.R
+│   ├── unbox-fast-test.R
+│   ├── unbox-fast.cpp
+│   ├── unbox-grid.cpp
+│   ├── voronoi-baroque.R
+│   ├── voronoi-tiles.R
+│   └── voronoi-unbox.R
 ```
 
 ![](https://i.creativecommons.org/l/by/4.0/88x31.png) Danielle's work is
